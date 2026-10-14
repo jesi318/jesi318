@@ -30,7 +30,8 @@
         "height": 280
       },
       "config": {
-        "showTitle": true
+        "showTitle": true,
+        "hideBorder": false
       },
       "locked": false,
       "visible": true,
@@ -11655,7 +11656,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791982599406_cydr8",
-    "updatedAt": "2026-10-14T12:56:42.657Z"
+    "revision": "rev_1791982713628_ubr31",
+    "updatedAt": "2026-10-14T12:58:38.348Z"
   }
 }
