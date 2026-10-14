@@ -4,8 +4,6 @@
   <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/jesi318/jesi318/gitascii/profiles/default/dark.svg" width="100%">
 </picture>
 
-## Contribution Graph
-
 <table>
   <tr>
     <td bgcolor="#000000" align="center">
