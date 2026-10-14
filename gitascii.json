@@ -81,7 +81,7 @@
         ],
         "theme": "dark",
         "perLine": 4,
-        "customTitle": "C#",
+        "customTitle": "",
         "animationType": "none",
         "animationPreviewKey": 18,
         "animationDuration": 600,
@@ -11622,6 +11622,23 @@
       "locked": false,
       "visible": true,
       "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1791982353548",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 858
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
     }
   ],
   "globalStyles": {
@@ -11638,7 +11655,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791981962643_ew6lh",
-    "updatedAt": "2026-10-14T12:46:07.007Z"
+    "revision": "rev_1791982599406_cydr8",
+    "updatedAt": "2026-10-14T12:56:42.657Z"
   }
 }
