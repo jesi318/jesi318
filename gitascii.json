@@ -75,7 +75,7 @@
           "linux",
           "docker",
           "azure",
-          "tailwind"
+          "py"
         ],
         "theme": "dark",
         "perLine": 4,
@@ -11636,7 +11636,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791977634876_ec9t4",
-    "updatedAt": "2026-10-14T11:33:59.137Z"
+    "revision": "rev_1791978332736_k3qs2",
+    "updatedAt": "2026-10-14T11:45:38.356Z"
   }
 }
