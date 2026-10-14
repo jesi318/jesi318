@@ -1,5 +1,5 @@
 
-<svg width="800" height="858" viewBox="0 0 800 858" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="1124" viewBox="0 0 800 1124" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="" width="800" height="858" fill="#ffffff" rx="0" />
+  <rect class="" width="800" height="1124" fill="#ffffff" rx="0" />
 
   
     <g transform="translate(0, 0)" id="widget-widget_1791971647583_0">
@@ -60,7 +60,7 @@
 <text x="12" y="100" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">...........................</tspan><tspan fill="#c9d1d9"> github.com/jesi318</tspan></text>
 <text x="12" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">─────────────────────────────────────────</tspan></text>
 <text x="12" y="144" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 5</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 1</tspan></text>
-<text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 114</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 2</tspan></text>
+<text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 115</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 2</tspan></text>
   
     </g>
   
@@ -714,6 +714,23 @@
 <text x="20" y="376.0" fill="#7d8590" font-size="13">jesi318@github:~$ whoami <tspan fill="#ffa657">Jeswin Jaison</tspan></text>
 <rect x="247" y="364.0" width="8" height="14" fill="#ffa657"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>
+  
+    </g>
+  
+
+    <g transform="translate(0, 858)" id="widget-widget_1791978366894">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="250" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ CONTRIBUTION SNAKE ]</text>
+    <svg width="768" height="190" x="16" y="44" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#141414" rx="6" ry="6" stroke="#333" stroke-dasharray="4" />
+            <text x="50%" y="50%" fill="#888888" font-family="monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">Snake not generated yet (run GitHub Action)</text>
+          </svg>
+  
   
     </g>
   
