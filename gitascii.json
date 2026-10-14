@@ -11620,26 +11620,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 7
-    },
-    {
-      "instanceId": "widget_1791975558558",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 842
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {
-        "hideBorder": false,
-        "theme": "dark"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
     }
   ],
   "globalStyles": {
@@ -11656,7 +11636,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791976144950_unakm",
-    "updatedAt": "2026-10-14T11:09:10.137Z"
+    "revision": "rev_1791977634876_ec9t4",
+    "updatedAt": "2026-10-14T11:33:59.137Z"
   }
 }
