@@ -11633,7 +11633,9 @@
         "width": 800,
         "height": 250
       },
-      "config": {},
+      "config": {
+        "branch": "main"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 7
@@ -11653,7 +11655,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791978444446_o90yl",
-    "updatedAt": "2026-10-14T11:47:28.688Z"
+    "revision": "rev_1791979334884_tykhr",
+    "updatedAt": "2026-10-14T12:02:18.661Z"
   }
 }
